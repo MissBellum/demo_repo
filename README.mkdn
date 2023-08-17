@@ -8,6 +8,7 @@ Yee
 
 # Local Development
 
-1. Trying branching.
 
-Not going to the main branch.
+1. In browser open index.html
+
+  Resolved conflicts.
