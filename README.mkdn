@@ -8,6 +8,7 @@ Yee
 
 # Local Development
 
+
 1. In browser open index.html
 
-Do this yo.
+  Resolved conflicts.
