@@ -12,3 +12,7 @@ Yee
 1. In browser open index.html
 
   Resolved conflicts.
+
+2. Learn attempt 2.
+
+  Bon chance! 
